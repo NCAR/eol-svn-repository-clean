@@ -1,0 +1,287 @@
+***************
+nsamettwr2hC2.b1.20080324.000000.cdf
+***************
+name: AtmPress
+units: "kPa" ;
+description: "Atmospheric Pressure" ;
+***************
+name: AvgVis10m
+units: "m" ;
+description: "10 minute Average Visibility" ;
+***************
+name: AvgVis1mi
+units: "m" ;
+description: "1 minute Average Visibility" ;
+***************
+name: CMHDP
+units: "C" ;
+description: "Chilled Mirror Dew Point" ;
+***************
+name: CMHRH
+units: "%" ;
+description: "Chilled Mirror Calculated Relative Humidity" ;
+***************
+name: CMHTemp
+units: "C" ;
+description: "Chilled Mirror Temperature" ;
+***************
+name: CumH2O
+units: "mm" ;
+description: "Cumulative Water Sum" ;
+***************
+name: CumSnow
+units: "mm" ;
+description: "Cumulative Snow Sum" ;
+***************
+name: DP2m_AVG
+units: "C" ;
+description: "2m Average Calculated Dew Point" ;
+***************
+name: DP2m_STD
+units: "C" ;
+description: "Standard Deviation of 2m Calculated Dew Point" ;
+***************
+name: DP5m_AVG
+units: "C" ;
+description: "5m Average Calculated Dew Point" ;
+***************
+name: DP5m_STD
+units: "C" ;
+description: "Standard Deviation of 5m Calculated Dew Point" ;
+***************
+name: InstPWCod
+units: "unitless" ;
+description: "Instant Present Weather Code" ;
+***************
+name: PCPRate
+units: "mm/hr" ;
+description: "Precipitation Rate" ;
+***************
+name: PWCod1hr
+units: "unitless" ;
+description: "1 hour Present Weather Code" ;
+***************
+name: PWSAlarm
+units: "unitless" ;
+description: "Present Weather Sensor Alarm" ;
+***************
+name: PWcod15mi
+units: "unitless" ;
+description: "15 minute Present Weather Code" ;
+***************
+name: QLIVolt_AVG
+units: "V" ;
+description: "QLI Average Input Voltage" ;
+***************
+name: RH2m_AVG
+units: "%" ;
+description: "2m Average Relative Humidity" ;
+***************
+name: RH2m_STD
+units: "%" ;
+description: "Standard Deviation of 2m Relative Humidity" ;
+***************
+name: RH5m_AVG
+units: "%" ;
+description: "5m Average Relative Humidity" ;
+***************
+name: RH5m_STD
+units: "%" ;
+description: "Standard Deviation of 5m Relative Humidity" ;
+***************
+name: RefTemp_AVG
+units: "C" ;
+description: "QLI Average Reference Temperature" ;
+***************
+name: SatVPCMH
+units: "kPa" ;
+description: "Chilled Mirror Calculated Saturation Vapor Pressure" ;
+***************
+name: T2m_AVG
+units: "C" ;
+description: "2m Average Temperature" ;
+***************
+name: T2m_STD
+units: "C" ;
+description: "Standard Deviation of 2m Temperature" ;
+***************
+name: T5m_AVG
+units: "C" ;
+description: "5m Average Temperature" ;
+***************
+name: T5m_STD
+units: "C" ;
+description: "Standard Deviation of 5m Temperature" ;
+***************
+name: VP2m_AVG
+units: "kPa" ;
+description: "2m Average Calculated Vapor Pressure" ;
+***************
+name: VP2m_STD
+units: "kPa" ;
+description: "Standard Deviation of 2m Calculated Vapor Pressure" ;
+***************
+name: VP5m_AVG
+units: "kPa" ;
+description: "5m Average Calculated Vapor Pressure" ;
+***************
+name: VP5m_STD
+units: "kPa" ;
+description: "Standard Deviation of 5m Calculated Vapor Pressure" ;
+***************
+name: VPCMH
+units: "kPa" ;
+description: "Chilled Mirror Calculated Vapor Pressure" ;
+***************
+name: WinDir_DU_WVT
+units: "deg" ;
+description: "Vector Averaged Wind Direction" ;
+***************
+name: WinDir_SDU_WVT
+units: "deg" ;
+description: "Standard Deviation of Vector Averaged Wind Direction" ;
+***************
+name: WinSpeed_S_WVT
+units: "m/s" ;
+description: "Arithmetic Mean Wind Speed" ;
+***************
+name: WinSpeed_U_WVT
+units: "m/s" ;
+description: "Vector Averaged Wind Speed" ;
+***************
+name: alt
+units: "meters above Mean Sea Level" ;
+description: "altitude" ;
+***************
+name: base_time
+units: "seconds since 1970-1-1 0:00:00 0:00" ;
+description: "Base time in Epoch" ;
+***************
+name: batt_volt
+units: "V" ;
+description: "Datalogger Battery Voltage" ;
+***************
+name: lat
+units: "degrees" ;
+description: "north latitude" ;
+***************
+name: lon
+units: "degrees" ;
+description: "east longitude" ;
+***************
+name: num_sec_avg
+units: "seconds" ;
+description: "Averaging Seconds" ;
+***************
+name: qc_AtmPress
+units: "unitless" ;
+description: "Quality check results on field: Atmospheric Pressure" ;
+***************
+name: qc_AvgVis10m
+units: "unitless" ;
+description: "Quality check results on field: 10 minute Average Visibility" ;
+***************
+name: qc_AvgVis1mi
+units: "unitless" ;
+description: "Quality check results on field: 1 minute Average Visibility" ;
+***************
+name: qc_CMHDP
+units: "unitless" ;
+description: "Quality check results on field: Chilled Mirror Dew Point" ;
+***************
+name: qc_CMHRH
+units: "unitless" ;
+description: "Quality check results on field: Chilled Mirror Calculated Relative Humidity" ;
+***************
+name: qc_CMHTemp
+units: "unitless" ;
+description: "Quality check results on field: Chilled Mirror Temperature" ;
+***************
+name: qc_CumH2O
+units: "unitless" ;
+description: "Quality check results on field: Cumulative Water Sum" ;
+***************
+name: qc_CumSnow
+units: "unitless" ;
+description: "Quality check results on field: Cumulative Snow Sum" ;
+***************
+name: qc_DP2m_AVG
+units: "unitless" ;
+description: "Quality check results on field: 2m Average Calculated Dew Point" ;
+***************
+name: qc_DP5m_AVG
+units: "unitless" ;
+description: "Quality check results on field: 5m Average Calculated Dew Point" ;
+***************
+name: qc_InstPWCod
+units: "unitless" ;
+description: "Quality check results on field: Instant Present Weather Code" ;
+***************
+name: qc_PCPRate
+units: "unitless" ;
+description: "Quality check results on field: Precipitation Rate" ;
+***************
+name: qc_PWCod1hr
+units: "unitless" ;
+description: "Quality check results on field: 1 hour Present Weather Code" ;
+***************
+name: qc_PWcod15mi
+units: "unitless" ;
+description: "Quality check results on field: 15 minute Present Weather Code" ;
+***************
+name: qc_RH2m_AVG
+units: "unitless" ;
+description: "Quality check results on field: 2m Average Relative Humidity" ;
+***************
+name: qc_RH5m_AVG
+units: "unitless" ;
+description: "Quality check results on field: 5m Average Relative Humidity" ;
+***************
+name: qc_SatVPCMH
+units: "unitless" ;
+description: "Quality check results on field: Chilled Mirror Calculated Saturation Vapor Pressure" ;
+***************
+name: qc_T2m_AVG
+units: "unitless" ;
+description: "Quality check results on field: 2m Average Temperature" ;
+***************
+name: qc_T5m_AVG
+units: "unitless" ;
+description: "Quality check results on field: 5m Average Temperature" ;
+***************
+name: qc_VP2m_AVG
+units: "unitless" ;
+description: "Quality check results on field: 2m Average Calculated Vapor Pressure" ;
+***************
+name: qc_VP5m_AVG
+units: "unitless" ;
+description: "Quality check results on field: 5m Average Calculated Vapor Pressure" ;
+***************
+name: qc_VPCMH
+units: "unitless" ;
+description: "Quality check results on field: Chilled Mirror Calculated Vapor Pressure" ;
+***************
+name: qc_WinDir_DU_WVT
+units: "unitless" ;
+description: "Quality check results on field: Vector Averaged Wind Direction" ;
+***************
+name: qc_WinSpeed_S_WVT
+units: "unitless" ;
+description: "Quality check results on field: Arithmetic Mean Wind Speed" ;
+***************
+name: qc_WinSpeed_U_WVT
+units: "unitless" ;
+description: "Quality check results on field: Vector Averaged Wind Speed" ;
+***************
+name: qc_time
+units: "unitless" ;
+description: "Results of quality checks on sample time" ;
+***************
+name: time
+units: "seconds since 2008-03-24 00:00:00 0:00" ;
+description: "Time offset from midnight" ;
+***************
+name: time_offset
+units: "seconds since 2008-03-24 00:00:00 0:00" ;
+description: "Time offset from base_time" ;
+***************

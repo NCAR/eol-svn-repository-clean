@@ -1,0 +1,55 @@
+-------------------------------------------------------------
+
+mettwr4h
+
+"Base time in Epoch"                                                  base_time                     mettwr4h  
+"Time offset from base_time"                                          time_offset                   mettwr4h  
+"north latitude"                                                      lat                           mettwr4h  
+"east longitude"                                                      lon                           mettwr4h  
+"altitude"                                                            alt                           mettwr4h  
+"Atmospheric Pressure"                                                AtmPress                      mettwr4h  
+"Quality check results on field: Atmospheric Pressure"                qc_AtmPress                   mettwr4h  
+"2m Vector Averaged Wind Speed"                                       WS2M_U_WVT                    mettwr4h  
+"Quality check results on field: 2m Vector Averaged Wind Speed"       qc_WS2M_U_WVT                 mettwr4h  
+"10m Vector Averaged Wind Speed"                                      WS10M_U_WVT                   mettwr4h  
+"Quality check results on field: 10m Vector Averaged Wind Speed"      qc_WS10M_U_WVT                mettwr4h  
+"20m Vector Averaged Wind Speed"                                      WS20M_U_WVT                   mettwr4h  
+"Quality check results on field: 20m Vector Averaged Wind Speed"      qc_WS20M_U_WVT                mettwr4h  
+"40m Vector Averaged Wind Speed"                                      WS40M_U_WVT                   mettwr4h  
+"Quality check results on field: 40m Vector Averaged Wind Speed"      qc_WS40M_U_WVT                mettwr4h  
+"2m Vector Averaged Wind Direction"                                   WD2M_DU_WVT                   mettwr4h  
+"Quality check results on field: 2m Vector Averaged Wind Direction"   qc_WD2M_DU_WVT                mettwr4h  
+"10m Vector Averaged Wind Direction"                                  WD10M_DU_WVT                  mettwr4h  
+"Quality check results on field: 10m Vector Averaged Wind Direction"  qc_WD10M_DU_WVT               mettwr4h  
+"20m Vector Averaged Wind Direction"                                  WD20M_DU_WVT                  mettwr4h  
+"Quality check results on field: 20m Vector Averaged Wind Direction"  qc_WD20M_DU_WVT               mettwr4h  
+"40m Vector Averaged Wind Direction"                                  WD40M_DU_WVT                  mettwr4h  
+"Quality check results on field: 40m Vector Averaged Wind Direction"  qc_WD40M_DU_WVT               mettwr4h  
+"2m Average Temperature"                                              T2M_AVG                       mettwr4h  
+"Quality check results on field: 2m Average Temperature"              qc_T2M_AVG                    mettwr4h  
+"10m Average Temperature"                                             T10M_AVG                      mettwr4h  
+"Quality check results on field: 10m Average Temperature"             qc_T10M_AVG                   mettwr4h  
+"20m Average Temperature"                                             T20M_AVG                      mettwr4h  
+"Quality check results on field: 20m Average Temperature"             qc_T20M_AVG                   mettwr4h  
+"40m Average Temperature"                                             T40M_AVG                      mettwr4h  
+"Quality check results on field: 40m Average Temperature"             qc_T40M_AVG                   mettwr4h  
+"2m Average Relative Humidity"                                        RH2M_AVG                      mettwr4h  
+"Quality check results on field: 2m Average Relative Humidity"        qc_RH2M_AVG                   mettwr4h  
+"10m Average Relative Humidity"                                       RH10M_AVG                     mettwr4h  
+"Quality check results on field: 10m Average Relative Humidity"       qc_RH10M_AVG                  mettwr4h  
+"20m Average Relative Humidity"                                       RH20M_AVG                     mettwr4h  
+"Quality check results on field: 20m Average Relative Humidity"       qc_RH20M_AVG                  mettwr4h  
+"40m Average Relative Humidity"                                       RH40M_AVG                     mettwr4h  
+"Quality check results on field: 40m Average Relative Humidity"       qc_RH40M_AVG                  mettwr4h  
+"2m Average Calculated Dew Point"                                     DP2M_AVG                      mettwr4h  
+"Quality check results on field: 2m Average Calculated Dew Point"     qc_DP2M_AVG                   mettwr4h  
+"10m Average Calculated Dew Point"                                    DP10M_AVG                     mettwr4h  
+"Quality check results on field: 10m Average Calculated Dew Point"    qc_DP10M_AVG                  mettwr4h  
+"20m Average Calculated Dew Point"                                    DP20M_AVG                     mettwr4h  
+"Quality check results on field: 20m Average Calculated Dew Point"    qc_DP20M_AVG                  mettwr4h  
+"40m Average Calculated Dew Point"                                    DP40M_AVG                     mettwr4h  
+"Quality check results on field: 40m Average Calculated Dew Point"    qc_DP40M_AVG                  mettwr4h  
+"Precipitation Rate"                                                  PcpRate                       mettwr4h  
+"Quality check results on field: Precipitation Rate"                  qc_PcpRate                    mettwr4h  
+"Cumulative Snow Sum"                                                 CumSnow                       mettwr4h  
+"Quality check results on field: Cumulative Snow Sum"                 qc_CumSnow                    mettwr4h  

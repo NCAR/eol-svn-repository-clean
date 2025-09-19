@@ -1,0 +1,135 @@
+***************
+nsagndrad60sC1.b1.20080324.000000.cdf
+***************
+name: alt
+units: "meters above Mean Sea Level" ;
+description: "altitude" ;
+***************
+name: base_time
+units: "seconds since 1970-1-1 0:00:00 0:00" ;
+description: "Base time in Epoch" ;
+***************
+name: inst_up_long_hemisp_case_temp
+units: "K" ;
+description: "Instantaneous Upwelling Pyrgeometer Case Thermistor Temperature Pyrgeometer" ;
+***************
+name: inst_up_long_hemisp_dome_temp
+units: "K" ;
+description: "Instantaneous Upwelling Pyrgeometer Dome Thermistor Temperature Pyrgeometer" ;
+***************
+name: inst_up_long_hemisp_tp
+units: "W/m^2" ;
+description: "Instantaneous Upwelling Pyrgeometer Thermopile Pyrgeometer" ;
+***************
+name: lat
+units: "degrees" ;
+description: "north latitude" ;
+***************
+name: logger_temp
+units: "C" ;
+description: "Logger temperature" ;
+***************
+name: lon
+units: "degrees" ;
+description: "east longitude" ;
+***************
+name: qc_sfc_ir_temp
+units: "unitless" ;
+description: "Quality check results on field: Surface Infra-Red Temperature" ;
+***************
+name: qc_sfc_ir_temp_max
+units: "unitless" ;
+description: "Quality check results on field: Surface Infra-Red Temperature Maxima" ;
+***************
+name: qc_sfc_ir_temp_min
+units: "unitless" ;
+description: "Quality check results on field: Surface Infra-Red Temperature Minima" ;
+***************
+name: qc_time
+units: "unitless" ;
+description: "Results of quality checks on sample time" ;
+***************
+name: qc_up_long_hemisp
+units: "unitless" ;
+description: "Quality check results on field: Upwelling Longwave Hemispheric Irradiance, Pyrgeometer" ;
+***************
+name: qc_up_long_hemisp_max
+units: "unitless" ;
+description: "Quality check results on field: Upwelling Longwave Hemispheric Irradiance, Pyrgeometer, Maxima" ;
+***************
+name: qc_up_long_hemisp_min
+units: "unitless" ;
+description: "Quality check results on field: Upwelling Longwave Hemispheric Irradiance, Pyrgeometer, Minima" ;
+***************
+name: qc_up_short_hemisp
+units: "unitless" ;
+description: "Quality check results on field: Upwelling Shortwave Hemispheric Irradiance, Pyranometer" ;
+***************
+name: qc_up_short_hemisp_max
+units: "unitless" ;
+description: "Quality check results on field: Upwelling Shortwave Hemispheric Irradiance, Pyranometer, Maxima" ;
+***************
+name: qc_up_short_hemisp_min
+units: "unitless" ;
+description: "Quality check results on field: Upwelling Shortwave Hemispheric Irradiance, Pyranometer, Minima" ;
+***************
+name: sfc_ir_temp
+units: "K" ;
+description: "Surface Infra-Red Temperature" ;
+***************
+name: sfc_ir_temp_max
+units: "K" ;
+description: "Surface Infra-Red Temperature Maxima" ;
+***************
+name: sfc_ir_temp_min
+units: "K" ;
+description: "Surface Infra-Red Temperature Minima" ;
+***************
+name: sfc_ir_temp_std
+units: "K" ;
+description: "Surface Infra-Red Temperature, Standard Deviation" ;
+***************
+name: time
+units: "seconds since 2008-03-24 00:00:00 0:00" ;
+description: "Time offset from midnight" ;
+***************
+name: time_offset
+units: "seconds since 2008-03-24 00:00:00 0:00" ;
+description: "Time offset from base_time" ;
+***************
+name: up_long_hemisp
+units: "W/m^2" ;
+description: "Upwelling Longwave Hemispheric Irradiance, Pyrgeometer" ;
+***************
+name: up_long_hemisp_max
+units: "W/m^2" ;
+description: "Upwelling Longwave Hemispheric Irradiance, Pyrgeometer, Maxima" ;
+***************
+name: up_long_hemisp_min
+units: "W/m^2" ;
+description: "Upwelling Longwave Hemispheric Irradiance, Pyrgeometer, Minima" ;
+***************
+name: up_long_hemisp_std
+units: "W/m^2" ;
+description: "Upwelling Longwave Hemispheric Irradiance, Pyrgeometer, Standard Deviation" ;
+***************
+name: up_short_hemisp
+units: "W/m^2" ;
+description: "Upwelling Shortwave Hemispheric Irradiance, Pyranometer" ;
+***************
+name: up_short_hemisp_max
+units: "W/m^2" ;
+description: "Upwelling Shortwave Hemispheric Irradiance, Pyranometer, Maxima" ;
+***************
+name: up_short_hemisp_min
+units: "W/m^2" ;
+description: "Upwelling Shortwave Hemispheric Irradiance, Pyranometer, Minima" ;
+***************
+name: up_short_hemisp_std
+units: "W/m^2" ;
+description: "Upwelling Shortwave Hemispheric Irradiance, Pyranometer, Standard Deviation" ;
+***************
+name: vBatt
+units: "V" ;
+description: "Battery voltage" ;
+***************

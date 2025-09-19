@@ -1,0 +1,5 @@
+*.flx filter=lfs diff=lfs merge=lfs -text
+*.sfc filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.asc filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text

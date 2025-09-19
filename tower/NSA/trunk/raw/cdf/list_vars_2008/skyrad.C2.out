@@ -1,0 +1,231 @@
+***************
+nsaskyrad60sC2.b1.20080324.000000.cdf
+***************
+name: alt
+units: "meters above Mean Sea Level" ;
+description: "altitude" ;
+***************
+name: base_time
+units: "seconds since 1970-1-1 0:00:00 0:00" ;
+description: "Base time in Epoch" ;
+***************
+name: down_long_hemisp1
+units: "W/m^2" ;
+description: "Downwelling Longwave Hemispheric Irradiance, Pyrgeometer1" ;
+***************
+name: down_long_hemisp1_max
+units: "W/m^2" ;
+description: "Downwelling Longwave Hemispheric Irradiance, Pyrgeometer1, Maxima" ;
+***************
+name: down_long_hemisp1_min
+units: "W/m^2" ;
+description: "Downwelling Longwave Hemispheric Irradiance, Pyrgeometer1, Minima" ;
+***************
+name: down_long_hemisp1_std
+units: "W/m^2" ;
+description: "Downwelling Longwave Hemispheric Irradiance, Pyrgeometer1, Standard Deviation" ;
+***************
+name: down_long_hemisp2
+units: "W/m^2" ;
+description: "Downwelling Longwave Hemispheric Irradiance, Pyrgeometer2" ;
+***************
+name: down_long_hemisp2_max
+units: "W/m^2" ;
+description: "Downwelling Longwave Hemispheric Irradiance, Pyrgeometer2, Maxima" ;
+***************
+name: down_long_hemisp2_min
+units: "W/m^2" ;
+description: "Downwelling Longwave Hemispheric Irradiance, Pyrgeometer2, Minima" ;
+***************
+name: down_long_hemisp2_std
+units: "W/m^2" ;
+description: "Downwelling Longwave Hemispheric Irradiance, Pyrgeometer2, Standard Deviation" ;
+***************
+name: down_short_diffuse_hemisp
+units: "W/m^2" ;
+description: "Downwelling Shortwave Diffuse Hemispheric Irradiance, Pyranometer" ;
+***************
+name: down_short_diffuse_hemisp_max
+units: "W/m^2" ;
+description: "Downwelling Shortwave Diffuse Hemispheric Irradiance, Pyranometer, Maxima" ;
+***************
+name: down_short_diffuse_hemisp_min
+units: "W/m^2" ;
+description: "Downwelling Shortwave Diffuse Hemispheric Irradiance, Pyranometer, Minima" ;
+***************
+name: down_short_diffuse_hemisp_std
+units: "W/m^2" ;
+description: "Downwelling Shortwave Diffuse Hemispheric Irradiance, Pyranometer, Standard Deviation" ;
+***************
+name: down_short_hemisp
+units: "W/m^2" ;
+description: "Downwelling Shortwave Hemispheric Irradiance, Pyranometer" ;
+***************
+name: down_short_hemisp_max
+units: "W/m^2" ;
+description: "Downwelling Shortwave Hemispheric Irradiance, Pyranometer, Maxima" ;
+***************
+name: down_short_hemisp_min
+units: "W/m^2" ;
+description: "Downwelling Shortwave Hemispheric Irradiance, Pyranometer, Minima" ;
+***************
+name: down_short_hemisp_std
+units: "W/m^2" ;
+description: "Downwelling Shortwave Hemispheric Irradiance, Pyranometer, Standard Deviation" ;
+***************
+name: inst_down_long_hemisp1_case_temp
+units: "K" ;
+description: "Instantaneous Downwelling Pyrgeometer Case Thermistor Temperature, Pyrgeometer1" ;
+***************
+name: inst_down_long_hemisp1_dome_temp
+units: "K" ;
+description: "Instantaneous Downwelling Pyrgeometer Dome Thermistor Temperature, Pyrgeometer1" ;
+***************
+name: inst_down_long_hemisp1_tp
+units: "W/m^2" ;
+description: "Instantaneous Downwelling Pyrgeometer Thermopile, Pyrgeometer1" ;
+***************
+name: inst_down_long_hemisp2_case_temp
+units: "K" ;
+description: "Instantaneous Downwelling Pyrgeometer Case Thermistor Temperature, Pyrgeometer2" ;
+***************
+name: inst_down_long_hemisp2_dome_temp
+units: "K" ;
+description: "Instantaneous Downwelling Pyrgeometer Dome Thermistor Temperature, Pyrgeometer2" ;
+***************
+name: inst_down_long_hemisp2_tp
+units: "W/m^2" ;
+description: "Instantaneous Downwelling Pyrgeometer Thermopile, Pyrgeometer2" ;
+***************
+name: lat
+units: "degrees" ;
+description: "north latitude" ;
+***************
+name: logger_temp
+units: "C" ;
+description: "Logger temperature" ;
+***************
+name: lon
+units: "degrees" ;
+description: "east longitude" ;
+***************
+name: qc_down_long_hemisp1
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Longwave Hemispheric Irradiance, Pyrgeometer1" ;
+***************
+name: qc_down_long_hemisp1_max
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Longwave Hemispheric Irradiance, Pyrgeometer1, Maxima" ;
+***************
+name: qc_down_long_hemisp1_min
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Longwave Hemispheric Irradiance, Pyrgeometer1, Minima" ;
+***************
+name: qc_down_long_hemisp2
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Longwave Hemispheric Irradiance, Pyrgeometer2" ;
+***************
+name: qc_down_long_hemisp2_max
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Longwave Hemispheric Irradiance, Pyrgeometer2, Maxima" ;
+***************
+name: qc_down_long_hemisp2_min
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Longwave Hemispheric Irradiance, Pyrgeometer2, Minima" ;
+***************
+name: qc_down_short_diffuse_hemisp
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Shortwave Diffuse Hemispheric Irradiance, Pyranometer" ;
+***************
+name: qc_down_short_diffuse_hemisp_max
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Shortwave Diffuse Hemispheric Irradiance, Pyranometer, Maxima" ;
+***************
+name: qc_down_short_diffuse_hemisp_min
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Shortwave Diffuse Hemispheric Irradiance, Pyranometer, Minima" ;
+***************
+name: qc_down_short_hemisp
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Shortwave Hemispheric Irradiance, Pyranometer" ;
+***************
+name: qc_down_short_hemisp_max
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Shortwave Hemispheric Irradiance, Pyranometer, Maxima" ;
+***************
+name: qc_down_short_hemisp_min
+units: "unitless" ;
+description: "Quality check results on field: Downwelling Shortwave Hemispheric Irradiance, Pyranometer, Minima" ;
+***************
+name: qc_short_direct_normal
+units: "unitless" ;
+description: "Quality check results on field: Shortwave Direct Normal Irradiance, Pyrheliometer" ;
+***************
+name: qc_short_direct_normal_max
+units: "unitless" ;
+description: "Quality check results on field: Shortwave Direct Normal Irradiance, Pyrheliometer, Maxima" ;
+***************
+name: qc_short_direct_normal_min
+units: "unitless" ;
+description: "Quality check results on field: Shortwave Direct Normal Irradiance, Pyrheliometer, Minima" ;
+***************
+name: qc_sky_ir_temp
+units: "unitless" ;
+description: "Quality check results on field: Sky/Cloud Infrared Temperature" ;
+***************
+name: qc_sky_ir_temp_max
+units: "unitless" ;
+description: "Quality check results on field: Sky/Cloud Infrared Temperature Maxima" ;
+***************
+name: qc_sky_ir_temp_min
+units: "unitless" ;
+description: "Quality check results on field: Sky/Cloud Infrared Temperature Minima" ;
+***************
+name: qc_time
+units: "unitless" ;
+description: "Results of quality checks on sample time" ;
+***************
+name: short_direct_normal
+units: "W/m^2" ;
+description: "Shortwave Direct Normal Irradiance, Pyrheliometer" ;
+***************
+name: short_direct_normal_max
+units: "W/m^2" ;
+description: "Shortwave Direct Normal Irradiance, Pyrheliometer, Maxima" ;
+***************
+name: short_direct_normal_min
+units: "W/m^2" ;
+description: "Shortwave Direct Normal Irradiance, Pyrheliometer, Minima" ;
+***************
+name: short_direct_normal_std
+units: "W/m^2" ;
+description: "Shortwave Direct Normal Irradiance, Pyrheliometer, Standard Deviation" ;
+***************
+name: sky_ir_temp
+units: "K" ;
+description: "Sky/Cloud Infrared Temperature" ;
+***************
+name: sky_ir_temp_max
+units: "K" ;
+description: "Sky/Cloud Infrared Temperature Maxima" ;
+***************
+name: sky_ir_temp_min
+units: "K" ;
+description: "Sky/Cloud Infrared Temperature Minima" ;
+***************
+name: sky_ir_temp_std
+units: "K" ;
+description: "Sky/Cloud Infrared Temperature Standard Deviation" ;
+***************
+name: time
+units: "seconds since 2008-03-24 00:00:00 0:00" ;
+description: "Time offset from midnight" ;
+***************
+name: time_offset
+units: "seconds since 2008-03-24 00:00:00 0:00" ;
+description: "Time offset from base_time" ;
+***************
+name: vBatt
+units: "V" ;
+description: "Battery voltage" ;
+***************

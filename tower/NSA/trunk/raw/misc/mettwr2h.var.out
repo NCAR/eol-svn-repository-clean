@@ -1,0 +1,31 @@
+-------------------------------------------------------------
+
+mettwr2h
+
+"Base time in Epoch"                                                  base_time                     mettwr2h  
+"Time offset from base_time"                                          time_offset                   mettwr2h  
+"north latitude"                                                      lat                           mettwr2h  
+"east longitude"                                                      lon                           mettwr2h  
+"altitude"                                                            alt                           mettwr2h  
+"Atmospheric Pressure"                                                AtmPress                      mettwr2h  
+"Quality check results on field: Atmospheric Pressure"                qc_AtmPress                   mettwr2h  
+"Vector Averaged Wind Speed"                                          WinSpeed_U_WVT                mettwr2h  
+"Quality check results on field: Vector Averaged Wind Speed"          qc_WinSpeed_U_WVT             mettwr2h  
+"Vector Averaged Wind Direction"                                      WinDir_DU_WVT                 mettwr2h  
+"Quality check results on field: Vector Averaged Wind Direction"      qc_WinDir_DU_WVT              mettwr2h  
+"5m Average Temperature"                                              T5m_AVG                       mettwr2h  
+"Quality check results on field: 5m Average Temperature"              qc_T5m_AVG                    mettwr2h  
+"2m Average Temperature"                                              T2m_AVG                       mettwr2h  
+"Quality check results on field: 2m Average Temperature"              qc_T2m_AVG                    mettwr2h  
+"5m Average Relative Humidity"                                        RH5m_AVG                      mettwr2h  
+"Quality check results on field: 5m Average Relative Humidity"        qc_RH5m_AVG                   mettwr2h  
+"2m Average Relative Humidity"                                        RH2m_AVG                      mettwr2h  
+"Quality check results on field: 2m Average Relative Humidity"        qc_RH2m_AVG                   mettwr2h  
+"2m Average Calculated Dew Point"                                     DP2m_AVG                      mettwr2h  
+"Quality check results on field: 2m Average Calculated Dew Point"     qc_DP2m_AVG                   mettwr2h  
+"5m Average Calculated Dew Point"                                     DP5m_AVG                      mettwr2h  
+"Quality check results on field: 5m Average Calculated Dew Point"     qc_DP5m_AVG                   mettwr2h  
+"Precipitation Rate"                                                  PCPRate                       mettwr2h  
+"Quality check results on field: Precipitation Rate"                  qc_PCPRate                    mettwr2h  
+"Cumulative Snow Sum"                                                 CumSnow                       mettwr2h  
+"Quality check results on field: Cumulative Snow Sum"                 qc_CumSnow                    mettwr2h  
